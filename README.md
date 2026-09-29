@@ -26,8 +26,5 @@ and recalls similar past cases to give specific, proven fixes instead of generic
 
 ## Demo Video
 [link here once you have it]
-## team
-THE UNSTOPPABLES
 ## Team
-Mech Nexus
-Scroll down, click Commit changes
+THE UNSTOPPABLES
